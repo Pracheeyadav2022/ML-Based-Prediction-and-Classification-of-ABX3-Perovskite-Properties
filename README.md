@@ -13,3 +13,11 @@ The dataset has been preprocessed to include 61 input features that describe the
 * Size: 16,323 samples
 * Features: 61 input features, including descriptors related to elemental sites in the ABX3 polyhedral and DFT-calculated properties.
 * Target Variables: Formation energy (eV/atom) and Band gap energy (eV)
+
+
+## Machine Learning Models:
+Three different ML models were employed to predict the target properties:
+
+1. Lasso Regression
+2. Random Forest
+3. XGBoost
