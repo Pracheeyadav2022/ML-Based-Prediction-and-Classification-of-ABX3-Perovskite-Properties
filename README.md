@@ -13,5 +13,5 @@ The dataset has been preprocessed to include 61 input features that describe the
 *Size: 16,323 samples
 *Features: 61 input features, including descriptors related to elemental sites in the ABX3 polyhedral and DFT-calculated properties.
 *Target Variables:
-**Formation energy (eV/atom)
-**Band gap energy (eV)
+Formation energy (eV/atom)
+Band gap energy (eV)
